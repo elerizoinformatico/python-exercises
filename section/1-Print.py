@@ -1,5 +1,5 @@
 """
-Debes mostrar por pantalla los siguientes resultados:
+Mostrar por pantalla los siguientes resultados:
 
 123
 -21
