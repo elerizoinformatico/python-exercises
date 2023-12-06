@@ -1,10 +1,11 @@
 """
-Dadas cuatro variables con diferentes textos (cadena1, cadena2, cadena3 y cadena4) utiliza lo que has aprendido
-para generar una cadena5 con el siguiente contenido:
+Dadas cuatro variables con diferentes textos (cadena1, cadena2, cadena3 y cadena4)
+utiliza lo que has aprendido para generar una cadena5 con el siguiente contenido:
 
 Python es un lenguaje de programación moderno
 
-Debes generar el contenido de cadena5 utilizando como origen el texto de las 4 primeras y el único carácter literal que puedes escribir son espacios ' '
+Debes generar el contenido de cadena5 utilizando como origen el texto de las 4 primeras
+y el único carácter literal que puedes escribir son espacios ' '
 """
 
 cadena1 = "moderno"
