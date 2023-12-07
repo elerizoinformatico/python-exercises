@@ -10,4 +10,4 @@ print("La nota media es: ", media)
 
 # El error está en el cálculo de la media ya que faltan los paréntesis
 media = (numero_1 + numero_2 + numero_3) / 3
-print("La nota media es: ", media)
+print("La nota media es:", media)
