@@ -1,5 +1,5 @@
 """
-Utilizando una condición if-elif-else debes realizar un programa que compare la longitud de dos variables (cadena_1 y cadena_2)
+Utilizando una condición if-elif-else debes realizar un programa que compare la longitud de dos variables
 y en función del resultado almacene un valor en otra variable llamada resultado:
 - Si cadena_1 es más larga que cadena_2 la variable resultado deberá tener el valor entero 1.
 - Si cadena_1 es más corta que cadena_2 la variable resultado deberá tener el valor entero 2.
