@@ -12,9 +12,9 @@ matriz = [
 # Recorremos la matriz
 for i, fila in enumerate(matriz):
     for j, columna in enumerate(fila):
-        if matriz[i][j] % 2 == 0:
+        if matriz[i][j] % 2 == 0: # Si es par reemplazamos por un 0
             matriz[i][j] = 0
-        else:
+        else: # En caso contrario, reemplazamos con un 1
             matriz[i][j] = 1
 
 print(matriz)
