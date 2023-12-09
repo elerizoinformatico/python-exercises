@@ -9,6 +9,7 @@ matriz = [
     [5, -5, 12]
 ]
 
+# Recorremos la matriz
 for i, fila in enumerate(matriz):
     for j, columna in enumerate(fila):
         if matriz[i][j] % 2 == 0:
