@@ -17,4 +17,6 @@ def factores_primos(numero):
             divisor += 1
     return factores
 
+# Probamos la función con los números 20 y 36
 print(factores_primos(20))
+print(factores_primos(36))
