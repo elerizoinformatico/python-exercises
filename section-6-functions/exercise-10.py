@@ -1,6 +1,6 @@
 """
 Definir una función llamada es_palindromo() que reconoce palíndromos, es decir,
-palabra que tienen el mismo aspecto escritas invertidas.
+palabras que tienen el mismo aspecto escritas invertidas.
 
 Ejemplo: es_palindromo("radar") tendría que devolver True.
 """
