@@ -15,3 +15,11 @@ def contar_digitos(numero):
 print(contar_digitos(123))
 print(contar_digitos(7881))
 print(contar_digitos(0))
+
+# Otra forma de resolver el mismo problema
+def contar_digitos(numero):
+    return len(str(numero))
+
+print(contar_digitos(123))
+print(contar_digitos(7881))
+print(contar_digitos(0))
