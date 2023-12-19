@@ -7,3 +7,10 @@ Pista: Valor indeterminado.
 
 def dividir(a, b):
     return a/b
+
+# La función anterior se indetermina si b=0, debemos corregir este inconveniente
+def dividir(a, b):
+    if b != 0:
+        return a/b
+    else:
+        return None
